@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{650DA74D-3216-4375-AB80-D0CDEE63607B}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{650DA74D-3216-4375-AB80-D0CDEE63607B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="SFX_BellRinging" ID="{342243F4-737F-4EDB-8AAA-A5F7F667C4FD}" ShortID="572341715">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{841219EB-BBBB-4012-86CB-AC48AC0D54AE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{BB1CDB29-02AD-49C3-9B35-98EE496DBDE1}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SFX_BellRinging" ID="{47AE9C22-0C2F-4DD6-BD30-992D6440E553}">
+							<Language>SFX</Language>
+							<AudioFile>SFX_BellRinging.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="181268674"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SFX_BellRinging" ID="{47AE9C22-0C2F-4DD6-BD30-992D6440E553}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

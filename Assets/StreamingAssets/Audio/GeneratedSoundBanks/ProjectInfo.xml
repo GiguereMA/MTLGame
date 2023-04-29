@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="MTLGame_WwiseProject" GUID="{9C1BA81B-8DA3-4DDE-837B-29724A6F48EE}" Generator="2022.1.4.8200"/>
+	<CacheRoot>../../../../MTLGame_WwiseProject/.cache/</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{C997723F-69B3-4A57-8E57-75089CDCFB9C}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../MTLGame_WwiseProject/GeneratedSoundBanks/Mac/"/>
+		<Platform Name="Windows" GUID="{A1EF129A-6561-4B3E-855A-2E8DD5D7CC49}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../MTLGame_WwiseProject/GeneratedSoundBanks/Windows/"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{F4608C68-C7AB-471F-B6D0-E694AA5EC27D}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{59B6BED8-11C9-C07B-37DF-50E4CD78FB4D}</FileHash>
+</ProjectInfo>
